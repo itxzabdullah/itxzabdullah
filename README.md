@@ -1,9 +1,13 @@
 ## Hi there 👋, I am Abdullah,
 
 • A Software Engineering student with a strong interest in Artificial Intelligence, Machine Learning and Automation.
+
 • Founded Techie Hub, an AI-powered event discovery platform specifically for Tech-related Events happening in Karachi.
+
 • Hands-on experience with manual testing, API testing, Postman, and Swagger.
+
 • Worked with open-source projects and libraries including NumPy, TensorFlow, and Pandas.
+
 • Motivated to use technology and automation effectively and deepen my expertise in AI and ML.
 
 Techie Hub, now live at: [techiehub-pk.vercel.app](https://techiehub-pk.vercel.app/)
