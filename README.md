@@ -2,7 +2,7 @@
 
 •	A Software Engineering student with experience in building and testing full-stack applications, with a strong interest in AI, ML and Automation.
 
-•	Founder of Techie Hub, an AI-powered event discovery platform specifically for Tech-related Events happening in Karachi.
+•	Building Techie Hub, an AI-powered event discovery platform specifically for Tech-related Events happening in Karachi.
 
 •	Hands-on experience across product research, API/manual testing tools (Postman, Swagger, SonarQube) and AI integration.
 
