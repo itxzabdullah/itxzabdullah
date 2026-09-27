@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Abdullah,
 
-•	A Software Engineering student with experience in building and testing full-stack applications, with a strong interest in AI, ML and Automation.
+•	A Software Engineering student with experience in building and testing full-stack applications, with a strong interest in AI integration and Automation.
 
 •	Building Techie Hub, an AI-powered event discovery platform specifically for Tech-related Events happening in Karachi.
 
